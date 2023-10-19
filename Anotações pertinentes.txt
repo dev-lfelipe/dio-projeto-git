@@ -1,1 +1,3 @@
 ## Arquivo em bloco de notas para anotações de forma mais rápida (será passado a limpo posteriormente)
+
+- Link do site de guia do Markdown: https://www.markdownguide.org/basic-syntax/
